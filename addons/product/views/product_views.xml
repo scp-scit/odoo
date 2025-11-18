@@ -33,7 +33,7 @@
                     />
                     <div class="oe_title">
                         <label for="name" string="Product"/>
-                        <h1>
+                        <h1>TEST ONLY
                             <div class="d-flex">
                                 <field name="is_favorite" widget="boolean_favorite" class="me-2" nolabel="1"/>
                                 <field class="text-break" name="name" options="{'line_breaks': False}" widget="text" placeholder="e.g. Cheese Burger"/>
